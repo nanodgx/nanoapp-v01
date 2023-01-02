@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nanoapp-v01/static/css/main.aa20ee79.css",
+    "main.js": "/nanoapp-v01/static/js/main.b350815e.js",
+    "index.html": "/nanoapp-v01/index.html",
+    "main.aa20ee79.css.map": "/nanoapp-v01/static/css/main.aa20ee79.css.map",
+    "main.b350815e.js.map": "/nanoapp-v01/static/js/main.b350815e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa20ee79.css",
+    "static/js/main.b350815e.js"
+  ]
+}
